@@ -1,0 +1,10 @@
+configparser==3.5.0
+Flask==0.12.2
+pycparser==2.18
+pycrypto==2.6.1
+pyOpenSSL==18.0.0
+PySocks==1.6.8
+requests==2.19.1
+urllib2==1498656401.94
+urllib3==1.23
+
